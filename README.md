@@ -17,5 +17,7 @@ Welcome to my GitHub profile! I'm a freelance data scientist and consultant with
 - **Specializations:** Geospatial data, water resources, environmental engineering, geoscience
 - **Hobbies:** Surfing, meteorology, and exploring the great outdoors
 
+---
+
 ## 🤝 Let's Connect
 - **Email:** andy@extrordinate.com
