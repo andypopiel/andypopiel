@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Andy!
 
-Welcome to my GitHub profile! I'm a freelance data scientist and consultant with a passion for solving real-world problems using data. Based in Houston, I'm also a surfer, weather geek, and former geoscientist.
+Welcome to my GitHub profile! I'm a freelance data scientist and consultant with a passion for solving real-world problems using data. Based in Houston, I'm also a surfer, nature-lover, weather geek, and former geoscientist.
 
 ---
 
