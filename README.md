@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Andy!
 
-<!--
-**andypopiel/andypopiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a freelance data scientist and consultant with a passion for solving real-world problems using data. Based in Houston, I'm also a surfer, weather geek, and former geoscientist.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Do
+- **Data Science & Machine Learning:** Crafting solutions for businesses using predictive analytics and AI.
+- **Environmental Projects:** Working on water resources and geospatial analysis.
+- **Freelance Consulting:** Helping companies unlock insights and achieve goals through data.
+
+---
+
+## 🌟 Skills & Interests
+- **Programming Languages:** Python, R, SQL
+- **Data Science Tools:** Pandas, NumPy, scikit-learn, TensorFlow, DagsHub
+- **Specializations:** Geospatial data, water resources, environmental engineering, geoscience
+- **Hobbies:** Surfing, meteorology, and exploring the great outdoors
+
+## 🤝 Let's Connect
+- **Email:** andy@extrordinate.com
